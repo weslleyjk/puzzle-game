@@ -12,7 +12,6 @@ Follow the instructions here to exec perfect our project :D .
 - [Team](#Team)
 
 ### Clone
-- Clone the repository in your computer : ```git clone https://github.com/Murielson/break-worlds.git ```
 
 ### Requeriments
 
@@ -35,9 +34,6 @@ $ nodemon . / nodemon index.js
 ## Tools
 - [Node.Js](https://nodejs.org/en/) - Node.js
 <!-- ## Suporte
-
-- Email : monitoriadigitalsuporte@gmail.com -->
-![alt text](https://media.giphy.com/media/3ov9k0Ziq50EoOuWRi/source.gif "Praise the sun!")  
 
 <!-- ## Licença
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
